@@ -25,9 +25,13 @@ Both Tower and Enemy are also ScriptableObjects, making them simpler, more flexi
 
 🎮 Features
 Core Systems
+
 Enemy Wave System - Configurable waves with multiple enemy types and boss waves
+
 Tower Defense - Grid-based tower placement with targeting and projectiles
+
 Enemy AI - Waypoint navigation with health systems and death animations
+
 UI Management - Real-time wave counter, resource management, and game controls
 
 🚀 Quick Start
