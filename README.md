@@ -3,7 +3,7 @@ This Repository will be removed or made private after a while.
 
 A concept Tower Defense game built in Unity with modular architecture and gameplay systems.
 
-The Project took me nearly 4 hours and 40 minutes to prepare, utilizing a couple of models and textures, as well as AI tools like ChatGPT to make my code clearer.
+The project took me around 4 hours and 40 minutes to complete. I used a few models and textures, along with AI tools, to help me write cleaner code.
 
 ## Instructions
 - Download the .unitypackage and import it (URP).
@@ -36,32 +36,35 @@ Core Systems
 
 
 🚀 Quick Start
-Open the main scene in Assets/_Content/_Scene/game
 
-Press Play to start the game
+- Open the main scene in Assets/_Content/_Scene/game
 
-Select towers from the UI and place them on the edge area
+- Press Play to start the game
 
-Defend your base against incoming enemy waves
+- Select towers from the UI and place them on the edge area
+
+- Defend your base against incoming enemy waves
 
 Hotkeys
-WASD - Move Camera
 
-MiddleMouse - Zoom Camera
+- WASD - Move Camera
 
-RightClick - Rotate Camera
+- MiddleMouse - Zoom Camera
 
-Space - Cycle game speed
+- RightClick - Rotate Camera
 
-Right Click - Cancel tower placement
+- Space - Cycle game speed
+
+- Right Click - Cancel tower placement
 
 🏗️ Architecture
-Built with modular, scalable design:
 
-ScriptableObjects for data-driven configuration
+- Built with modular, scalable design:
 
-Event-driven communication system
+- ScriptableObjects for data-driven configuration
 
-Singleton pattern for game management
+- Event-driven communication system
 
-Component-based entity system
+- Singleton pattern for game management
+
+- Component-based entity system
