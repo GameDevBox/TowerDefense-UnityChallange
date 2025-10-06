@@ -24,7 +24,9 @@ You can enable the looping option inside the WavesPattern, so when all waves are
 - Both Tower and Enemy are also ScriptableObjects, making them simpler, more flexible, and easier to manage.
 
 
-🎮 Features
+
+
+## 🎮 Features
 Core Systems
 
 - Enemy Wave System - Configurable waves with multiple enemy types and boss waves
@@ -36,7 +38,7 @@ Core Systems
 - UI Management - Real-time wave counter, resource management, and game controls
 
 
-🚀 Quick Start
+## 🚀 Quick Start
 
 - Open the main scene in Assets/_Content/_Scene/game
 
@@ -58,7 +60,8 @@ Hotkeys
 
 - Right Click - Cancel tower placement
 
-🏗️ Architecture
+
+## 🏗️ Architecture
 
 - Built with modular, scalable design:
 
