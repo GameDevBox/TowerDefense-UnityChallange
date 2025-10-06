@@ -11,16 +11,17 @@ The project took me around 4 hours and 40 minutes to complete. I used a few mode
 - You can easily add more enemies, Towers, or waves by creating related SO.
 
 How does it work?
-A WavesPattern is a complete data set for a stage or section of the game that can contain multiple waves.
+
+- A WavesPattern is a complete data set for a stage or section of the game that can contain multiple waves.
 Each wave can include an unlimited number of sequences with different data.
 Each sequence can represent an enemy or a boss.
 
-The WaveManager takes a WavesPattern data asset and runs it completely for the entire stage or section.
+- The WaveManager takes a WavesPattern data asset and runs it completely for the entire stage or section.
 You can enable the looping option inside the WavesPattern, so when all waves are finished, it restarts from the beginning and creates infinite waves.
 
-Difficulty Scaling in the WavesPattern allows us to quickly adjust all enemy values, making the game easier or harder as needed. Each Sequence also has this feature, allowing individual difficulty adjustments for specific enemies or bosses.
+- Difficulty Scaling in the WavesPattern allows us to quickly adjust all enemy values, making the game easier or harder as needed. Each Sequence also has this feature, allowing individual difficulty adjustments for specific enemies or bosses.
 
-Both Tower and Enemy are also ScriptableObjects, making them simpler, more flexible, and easier to manage.
+- Both Tower and Enemy are also ScriptableObjects, making them simpler, more flexible, and easier to manage.
 
 
 🎮 Features
