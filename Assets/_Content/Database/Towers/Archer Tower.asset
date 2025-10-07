@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c03dc1d27b807db4592f0586483c0c2e, type: 3}
+  m_Name: Archer Tower
+  m_EditorClassIdentifier: TowerDefence::TowerData
+  towerName: Archer Tower
+  description: A defensive structure that attacks enemies from a distance with rapid,
+    precise arrows.
+  towerPrefab: {fileID: 6232480978721594401, guid: 8da8248760081d1438680870afa45e89, type: 3}
+  projectileData: {fileID: 11400000, guid: 2005f7ab2c190b64fb3049bcef48aeca, type: 2}
+  cost: 50
+  range: 7
+  fireRate: 1
+  damage: 15
+  canAttackFlying: 1
+  canAttackGround: 1
+  icon: {fileID: 21300000, guid: 94e6c8c7dbc6508499456bc2ddeb9158, type: 3}
+  shootSound: {fileID: 8300000, guid: 516ffd9fe20558848b7f8a96ed9cefd5, type: 3}

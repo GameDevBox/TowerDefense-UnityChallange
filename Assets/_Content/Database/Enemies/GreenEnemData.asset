@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 705bb55c17698f64e95b0c8e322953ca, type: 3}
+  m_Name: GreenEnemData
+  m_EditorClassIdentifier: TowerDefence::EnemyData
+  enemyName: Green Goblin
+  prefab: {fileID: 8534609452036251561, guid: 27180e6c6f488ea41be857ef1c3c3f1e, type: 3}
+  baseHealth: 250
+  baseSpeed: 3
+  damage: 20
+  reward: 22
+  size: 1.3
+  spawnSound: {fileID: 0}
+  deathSound: {fileID: 0}
+  deathEffect: {fileID: 0}
+  isFlying: 0
+  isBoss: 0

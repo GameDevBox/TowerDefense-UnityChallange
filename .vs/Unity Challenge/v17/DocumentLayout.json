@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\UnityProject\\Unity Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|d:\\projects\\unityproject\\unity challenge\\assets\\_content\\_scripts\\editor\\projectwelcomewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_content\\_scripts\\editor\\projectwelcomewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|d:\\projects\\unityproject\\unity challenge\\assets\\_content\\_scripts\\editor\\screenshotutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_content\\_scripts\\editor\\screenshotutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\editor\\simplescreenshoteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_content\\_scripts\\editor\\simplescreenshoteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\editor\\gamedataeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B08049-6F71-7B08-B5E6-5ED8FE8FC16C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_content\\_scripts\\editor\\gamedataeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\managers\\waypointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\managers\\waypointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\managers\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\managers\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\gameplay\\transparentscreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\gameplay\\transparentscreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\towers\\towerspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\towers\\towerspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\managers\\towergridsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\managers\\towergridsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\towers\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\towers\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\gameplay\\simplescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\gameplay\\simplescreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\gameplay\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\gameplay\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\gameplay\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\gameplay\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\ui\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\ui\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\utility\\readonlydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\utility\\readonlydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\utility\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\utility\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\utility\\debuglogsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\utility\\debuglogsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\ui\\worldcanvascontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\ui\\worldcanvascontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\ui\\towertooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\ui\\towertooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\ui\\towerselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\ui\\towerselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\ui\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\ui\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\towers\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\towers\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\scriptableobjects\\wavepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\scriptableobjects\\wavepattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\scriptableobjects\\wavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\scriptableobjects\\wavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\scriptableobjects\\towerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\scriptableobjects\\towerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\scriptableobjects\\projectiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\scriptableobjects\\projectiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\scriptableobjects\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\scriptableobjects\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\managers\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\managers\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|D:\\Projects\\UnityProject\\Unity Challenge\\assets\\_content\\_scripts\\runtime\\managers\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9F5283-6896-CCFA-89A2-33EBC7923C2B}|TowerDefence.csproj|solutionrelative:assets\\_content\\_scripts\\runtime\\managers\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectWelcomeWindow.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\ProjectWelcomeWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Editor\\ProjectWelcomeWindow.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\ProjectWelcomeWindow.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Editor\\ProjectWelcomeWindow.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAowB8BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:35:54.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenshotUtility.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\ScreenshotUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Editor\\ScreenshotUtility.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\ScreenshotUtility.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Editor\\ScreenshotUtility.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:27:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleScreenshotEditor.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\SimpleScreenshotEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Editor\\SimpleScreenshotEditor.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\SimpleScreenshotEditor.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Editor\\SimpleScreenshotEditor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:26:06.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameDataEditor.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\GameDataEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Editor\\GameDataEditor.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Editor\\GameDataEditor.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Editor\\GameDataEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:25:12.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraController.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraController.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:15:29.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleScreenshot.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\SimpleScreenshot.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\SimpleScreenshot.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\SimpleScreenshot.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\SimpleScreenshot.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:16:44.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Towers\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Towers\\Tower.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Towers\\Tower.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Towers\\Tower.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAIwCEBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:20:20.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TowerGridSystem.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\TowerGridSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\TowerGridSystem.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\TowerGridSystem.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\TowerGridSystem.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:18:19.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TowerSpot.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Towers\\TowerSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Towers\\TowerSpot.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Towers\\TowerSpot.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Towers\\TowerSpot.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:20:52.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransparentScreenshot.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\TransparentScreenshot.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\TransparentScreenshot.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\TransparentScreenshot.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\TransparentScreenshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:17:25.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaveManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaveManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaveManager.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaveManager.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAA5wBMBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:19:03.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaypointManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaypointManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaypointManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaypointManager.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\WaypointManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:19:33.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraShake.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Gameplay\\CameraShake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:16:22.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\UI\\Billboard.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\Billboard.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\UI\\Billboard.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:01.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadOnlyDrawer.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Utility\\ReadOnlyDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Utility\\ReadOnlyDrawer.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Utility\\ReadOnlyDrawer.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Utility\\ReadOnlyDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:22:02.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Utility\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Utility\\Singleton.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Utility\\Singleton.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Utility\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:22:23.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DebugLogsManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Utility\\DebugLogsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Utility\\DebugLogsManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Utility\\DebugLogsManager.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Utility\\DebugLogsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorldCanvasControl.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\WorldCanvasControl.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\UI\\WorldCanvasControl.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\WorldCanvasControl.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\UI\\WorldCanvasControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:48.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\UI\\UIManager.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAqwCUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:22.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TowerTooltip.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerTooltip.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerTooltip.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerTooltip.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerTooltip.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:19.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TowerSelectionUI.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerSelectionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerSelectionUI.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerSelectionUI.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\UI\\TowerSelectionUI.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:10.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\UI\\HealthBar.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\UI\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\UI\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:21:08.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Towers\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Towers\\Projectile.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Towers\\Projectile.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Towers\\Projectile.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:20:06.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WavePattern.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WavePattern.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WavePattern.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WavePattern.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WavePattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:20:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WaveData.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WaveData.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WaveData.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\WaveData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:19:58.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TowerData.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\TowerData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\TowerData.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\TowerData.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\TowerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:19:56.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectileData.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\ProjectileData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\ProjectileData.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\ProjectileData.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\ProjectileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:19:54.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EnemyData.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\EnemyData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\EnemyData.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\EnemyData.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\ScriptableObjects\\EnemyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:13:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:18:12.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameEvents.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameEvents.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:18:06.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameData.cs",
+              "ToolTip": "D:\\Projects\\UnityProject\\Unity Challenge\\Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameData.cs",
+              "RelativeToolTip": "Assets\\_Content\\_Scripts\\Runtime\\Managers\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:17:49.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

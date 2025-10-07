@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f87f968f159a91f4a853205fb0991494, type: 3}
+  m_Name: Wave05
+  m_EditorClassIdentifier: TowerDefence::WaveData
+  waveName: Wave02
+  sequences:
+  - enemyType: {fileID: 11400000, guid: 858e03c8ca9d18c448ddb9be03ccc443, type: 2}
+    enemyCount: 18
+    spawnInterval: 1
+    delayBeforeSequence: 3
+    healthMultiplier: 1
+    speedMultiplier: 1
+    bonusReward: 200
+  - enemyType: {fileID: 11400000, guid: 858e03c8ca9d18c448ddb9be03ccc443, type: 2}
+    enemyCount: 15
+    spawnInterval: 1.8
+    delayBeforeSequence: 1
+    healthMultiplier: 1
+    speedMultiplier: 1
+    bonusReward: 500
+  - enemyType: {fileID: 11400000, guid: 858e03c8ca9d18c448ddb9be03ccc443, type: 2}
+    enemyCount: 6
+    spawnInterval: 0.8
+    delayBeforeSequence: 0.5
+    healthMultiplier: 1
+    speedMultiplier: 1
+    bonusReward: 40
+  timeBeforeWave: 5
+  moneyReward: 500
+  scoreReward: 300

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73ea2e91e2b99a64eb3323b523e38775, type: 3}
+  m_Name: WavePattern01
+  m_EditorClassIdentifier: TowerDefence::WavePattern
+  waves:
+  - {fileID: 11400000, guid: 8249b2ef6704e2442b63d3677443c783, type: 2}
+  - {fileID: 11400000, guid: 826b3b62e57fcb6459cfb1592475ea20, type: 2}
+  - {fileID: 11400000, guid: 8249b2ef6704e2442b63d3677443c783, type: 2}
+  - {fileID: 11400000, guid: 8249b2ef6704e2442b63d3677443c783, type: 2}
+  - {fileID: 11400000, guid: d8ed4e0cc67496c4ab05a1ce53ec9b67, type: 2}
+  - {fileID: 11400000, guid: d8ed4e0cc67496c4ab05a1ce53ec9b67, type: 2}
+  - {fileID: 11400000, guid: 826b3b62e57fcb6459cfb1592475ea20, type: 2}
+  - {fileID: 11400000, guid: d8ed4e0cc67496c4ab05a1ce53ec9b67, type: 2}
+  - {fileID: 11400000, guid: a9f9d7f5283882240933677f21da2cb4, type: 2}
+  - {fileID: 11400000, guid: f2894c99f68c54c43bbc8e2ab2035be0, type: 2}
+  loopPattern: 0
+  difficultyScaling:
+    healthMultiplierPerWave: 1.1
+    speedMultiplierPerWave: 1.05
+    spawnRateMultiplier: 0.95
+    extraEnemiesPerWave: 2
+  timeBetweenWaves: 2

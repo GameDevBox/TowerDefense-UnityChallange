@@ -1,0 +1,51 @@
+# Simple Unity .gitignore (no .meta files)
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# IDE
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.user
+*.userprefs
+
+# Auto-generated / backup files
+*.pidb
+*.suo
+*.tmp
+*.bak
+*.old
+*.orig
+*.log
+
+# Meta files
+*.meta
+
+# Build outputs
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.unitypackage
+
+# Addressables / cache
+AddressableAssetsData/
+Assets/StreamingAssets/aa/
+
+# Collab / Plastic
+Collab/
+PlasticSCM/

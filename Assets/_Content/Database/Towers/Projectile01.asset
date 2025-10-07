@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e35fb5a613489b4a8ac72b31b64b752, type: 3}
+  m_Name: Projectile01
+  m_EditorClassIdentifier: TowerDefence::ProjectileData
+  projectilePrefab: {fileID: 946429635791959699, guid: 13f216d2863613d4f9f329efe20cc33a, type: 3}
+  speed: 15
+  impactEffect: {fileID: 1411534853168070, guid: ccd9b33ebaa07f041b47672dd37ffb6f, type: 3}
+  impactSound: {fileID: 0}
+  lifetime: 2.5
